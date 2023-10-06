@@ -120,6 +120,14 @@ nav{
       .hero img{
          width: 20rem;
       }   
+      .nav-menu li{
+         font-size: 18px;
+         list-style: none;
+         padding: 5px;
+         margin: 3px;
+         font-weight: 600;
+         cursor: pointer;
+      }
  }
 
 
